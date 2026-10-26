@@ -6,7 +6,7 @@
 
 **Équipe :**
 - **Dramé, Abdramane** (Code permanent : DRAA04070300)
-- **Doumbia, Ibrahim** (Code permanent : )
+- **Doumbia, Djan Ibrahim** (Code permanent :DOUD23110200)
 
 **Dépôt GitHub :** https://github.com/abdouldrame09/6GEI311_Laboratoire3.git
 
@@ -141,4 +141,4 @@ Ce laboratoire nous a permis de passer avec succès d'un programme en ligne de c
 ## Auteurs
 
 - **Abdramane Dramé** (Code permanent : DRAA04070300) – https://github.com/abdouldrame09
-- **Ibrahim Doumbia**
+- **Djan Ibrahim Doumbia**(Code permanent : DOUD23110200)-https://github.com/Ibra02ib
